@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": 1,
+        "titulo": "O homem que parou o tempo",
+        "duracao": 2.5,
+        "atores": [
+            "fulano 1",
+            "fulano 2",
+            "fulano 3"
+        ],
+        "anoLancamento": 2019,
+        "emCartaz": true
+    },
+    {
+        "codigo": 2,
+        "titulo": "Homem Aranha",
+        "duracao": 3.5,
+        "atores": [
+            "fulano 1",
+            "fulano 2",
+            "fulano 3"
+        ],
+        "anoLancamento": 2021,
+        "emCartaz": true
+    },
+    {
+        "codigo": 3,
+        "titulo": "Homem Aranha",
+        "duracao": 1,
+        "atores": [
+            "fulano 1",
+            "fulano 2",
+            "fulano 3"
+        ],
+        "anoLancamento": 2021,
+        "emCartaz": true
+    },
+    {
+        "codigo": 3,
+        "titulo": "Homem Aranha",
+        "duracao": 1,
+        "atores": [
+            "fulano 1",
+            "fulano 2",
+            "fulano 3"
+        ],
+        "anoLancamento": 2021,
+        "emCartaz": true
+    },
+    {
+        "codigo": 4,
+        "titulo": "Homem Aranha",
+        "duracao": 5,
+        "atores": [
+            "fulano 1",
+            "fulano 2",
+            "fulano 3"
+        ],
+        "anoLancamento": 2021,
+        "emCartaz": true
+    }
+]
